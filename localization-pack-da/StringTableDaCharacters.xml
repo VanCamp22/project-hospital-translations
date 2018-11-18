@@ -13,7 +13,7 @@
             <!-- Employee job titles -->
             <GameDBLocalizedString>      <LocID>OCCUPATION_DOCTOR</LocID>               <Text>Læge</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OCCUPATION_NURSE</LocID>                <Text>Sygeplejerske</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OCCUPATION_LAB_SPECIALIST</LocID>       <Text>Tekniker</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_LAB_SPECIALIST</LocID>       <Text>Laborant</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OCCUPATION_JANITOR</LocID>              <Text>Rengøringsass.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>FIRED</LocID>                           <Text>Fyret</Text>  </GameDBLocalizedString>
 
